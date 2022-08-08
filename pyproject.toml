@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "sir-lancebot"
 version = "0.1.0"
-description = "A Discord bot designed as a fun and beginner-friendly learning environment for writing bot features and learning open-source."
+description = "A Discord bot designed as a fun and beginner-friendly learning environment for writing bot features and learning open-source, specialy made for Python DIscord."
 authors = ["Python Discord <info@pythondiscord.com>"]
 license = "MIT"
 
